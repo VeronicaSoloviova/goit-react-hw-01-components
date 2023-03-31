@@ -1,17 +1,11 @@
 .isOnline {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    display: block;
+    
     background-color: green;
     
 }
 
 .isOffline {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    display: block;
+    
     background-color: red;
 }
 
